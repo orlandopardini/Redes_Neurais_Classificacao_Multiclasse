@@ -1,6 +1,6 @@
 # Classificação Multiclasse com Redes Neurais Artificiais (RNA)
 
-As **Redes Neurais Artificiais (RNAs)** também podem ser aplicadas em tarefas de **classificação multiclasse**, onde o objetivo é identificar a qual entre várias categorias uma amostra pertence (ex: tipo de flor, espécie de animal, tipo de produto, etc.).
+As **Redes Neurais Artificiais (RNAs)** também podem ser aplicadas em tarefas de **classificação multiclasse**, onde o objetivo é identificar a qual entre várias categorias uma amostra pertence (ex: tipo de flor, espécie de animal, tipo de produto etc.).
 
 Nessas redes, a camada de saída possui **um neurônio por classe**, e geralmente usa a **função softmax** para transformar as ativações em probabilidades.
 
